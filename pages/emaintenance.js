@@ -24,9 +24,9 @@ const EMaintenance = () => (
         <div className="description">
           <h2>Qui est l'AJI ?</h2>
           <p>
-            L’AJI, partenaire d’Open Académie, est une “association professionnelle
+            AJI_gestion pour l'éducation, partenaire d’Open Académie, est une “association professionnelle
             nationale des personnels d'intendance des établissements publics d'enseignement français,”
-            créée en 1989. Elle vise à améliorer  la gestion des établissements scolaires par
+            créée en 1989. Elle vise à améliorer la gestion des établissements scolaires par
             la mise à disposition d’information et d’outils.
           </p>
         </div>
@@ -61,7 +61,7 @@ const EMaintenance = () => (
       </div>
 
       <Corporate
-        simple="Comme tous  les outils Open Académie, E-maintenance vise à simplifier concrètement vos opérations de gestion des établissements scolaires. Tout en gardant les outils que vous connaissez, c’est la fonctionnalité (plutôt que l’apparence) qui est repensée."
+        simple="Comme tous  les outils Open Académie, AJI-maintenance vise à simplifier concrètement vos opérations de gestion des établissements scolaires. Tout en gardant les outils que vous connaissez, c’est la fonctionnalité (plutôt que l’apparence) qui est repensée."
         gratuit="Elaboré par des agents du service public pour eux-mêmes et leurs collègues, E-maintenance est libre et gratuit. Cette liberté est matérialisée par la licence GPL, utilisée par la majorité des logiciels libres (Linux, Firefox, Libre Office...)"
       />
     </main>
