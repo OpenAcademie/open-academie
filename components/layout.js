@@ -22,7 +22,7 @@ export default ({ children, title = '', background = 'dark' }) => (
 
     <footer>
       <p>Open Académie</p>
-      <a href="mailto:contact@openacademie.fr">contact@openacademie.fr</a>
+      <a href="mailto:openacademie@espaceple.org">openacademie@espaceple.org</a>
 
       <style jsx>{`
         footer {
