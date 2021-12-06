@@ -131,8 +131,8 @@ export const Products = [
    {
     id: 'ribsco',
     page: '/ribsco',
-    title: 'RibSCO 1.0',
-    downloadUrl: '/static/files/RibSCO_1-0.zip',
+    title: 'RibSCO 1.2',
+    downloadUrl: '/static/files/RibSCO_1-2.zip',
     tagline: 'Vérifiez vos fichiers de paiement en un clin d\'oeil',
     description: 'Soumettez vos fichiers XML de règlement ou de prélèvement à RibSCO et vous saurez immédiatement s\'ils contiennent une erreur',
     imageSource: '/static/RibSCO_CCBY_ParkJisun.png',
