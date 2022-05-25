@@ -59,7 +59,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t43041',
+        href: 'https://gestionnaires.actifforum.com/t43041-gemasco-4-0-mai-2022-vous-aviez-des-ennuis-avec-les-manuels-scolaires',
       },
     ],
   },
