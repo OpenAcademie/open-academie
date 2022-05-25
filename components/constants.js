@@ -98,11 +98,11 @@ export const Products = [
     {
     id: 'cedisco',
     page: '/cedisco',
-    title: 'CédiSCO 1.6.0',
+    title: 'CédiSCO 2.0.0',
     formUrl: 'https://docs.google.com/forms/d/1AcTYcJrqYufC7N8SUeWzC1EpID0kprPHjTNq8Z5JOuk/formResponse?entry.1936573090=',
     emailEntryRef: '843103382',
     pageEntryRef: '89190430',
-    downloadUrl: '/static/files/CédiSCO_1-6-0.zip',
+    downloadUrl: '/static/files/CédiSCO_2-0-0.zip',
     tagline: 'Les conseils de discipline sans souci de procédure',
     description: 'CédiSCO assure l\'ensemble du travail de procédure pour le conseil de discipline, sans risque d\'erreur et sans effort.',
     imageSource: '/static/balance.png',
@@ -125,7 +125,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t40465-cedisco-les-conseils-de-discipline-passent-a-la-moulinette-openacademie',
+        href: 'https://gestionnaires.actifforum.com/t43048-cedisco-2-0-de-mai-2022-des-conseils-de-discipline-sans-transpirer',
       },
   ]},
    {
