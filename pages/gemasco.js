@@ -47,7 +47,7 @@ const Gemasco = () => (
 
       <div>
         <h2>Comment installer la police code barre ?</h2>
-        <p>Un bouton dans le menu des Paramètres de GemaSCO vous permet de l\'installer en quelques clics</p>
+        <p>Un bouton dans le menu des Paramètres de GemaSCO vous permet de l'installer en quelques clics</p>
 
         <h2>Avec quel matériel utiliser GemaSCO ?</h2>
         <ul>
@@ -60,7 +60,7 @@ const Gemasco = () => (
         <p>Les fonctions réseau peuvent être activées par une personne sachant comment agir. Explications en vidéo : https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos</p>
 
         <h2>Je n'ai pas les droits pour extraire la base élèves dans SIECLE</h2>
-        <p>Demandez-le à votre chef d\'établissement, ce qu\'il fera à l'aide de l\'application DELEG-CE (dans Sconet-Arena).</p>
+        <p>Demandez-le à votre chef d'établissement, ce qu'il fera à l'aide de l'application DELEG-CE (dans Sconet-Arena).</p>
 
         <style jsx>{`
           div {
