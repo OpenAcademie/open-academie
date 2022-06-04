@@ -66,11 +66,11 @@ export const Products = [
   {
     id: 'trombinosco',
     page: '/trombinosco',
-    title: 'TrombinoSCO 3.0.3',
+    title: 'TrombinoSCO 3.2.0',
     formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfhktm15pCKM8UK3_W-CUYFKU2a8R4lsmW6IBAFTVCI5LAYng/formResponse?entry.1297664213=',
     emailEntryRef: '1806504359',
     pageEntryRef: '201096845',
-    downloadUrl: '/static/files/TrombinoSCO_3-0-3.zip',
+    downloadUrl: '/static/files/TrombinoSCO_3-2-0.zip',
     tagline: 'Les photos des élèves avec le sourire',
     description: 'Un logiciel de gestion des photos, qui génère facilement les cartes de lycéen ou les trombinoscopes',
     imageSource: '/static/logotrombi.png',
