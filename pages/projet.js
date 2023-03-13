@@ -70,7 +70,7 @@ const Projet = () => (
 
       <div>
         <p>
-          Open Académie est un collectif d’agents d’établissements scolaires qui produit des services numériques&nbsp;
+          OpenAcadémie est un collectif d’agents d’établissements scolaires qui produit des services numériques&nbsp;
           <strong>gratuits</strong> pour en <strong>simplifier</strong> l’administration.
 
           <br />
@@ -81,7 +81,7 @@ const Projet = () => (
           <br />
           <br />
 
-          Open Académie est une Startup d’État développée avec le soutien du Secrétariat Général à la Modernisation de l’Action Publique (SGMAP)/Direction du Numérique de l'État.
+          OpenAcadémie est une Startup d’État développée avec le soutien du Secrétariat Général à la Modernisation de l’Action Publique (SGMAP)/Direction du Numérique de l'État.
         </p>
         <style jsx>{`
           p {
@@ -102,7 +102,7 @@ const Projet = () => (
             <h3>Vous êtes irrité</h3>
             <p>
               Nous partons d’une irritation, d’un <strong>dysfonctionnement</strong>&nbsp;
-              au sein d’un établissement scolaire. L’impulsion est  donnée par un observateur
+              au sein d’un établissement scolaire. L’impulsion est donnée par un observateur
               de terrain, le plus apte à mesurer le problème : <strong>l’agent public lui-même</strong>,
               intendant, gestionnaire, professeur ou autre membre du personnel scolaire.
 
