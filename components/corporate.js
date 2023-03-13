@@ -14,7 +14,7 @@ const Corporate = ({ simple, gratuit, collaboratif }) => (
 
     <div>
       <h2 id="collaboratif">Collaboratif</h2>
-      <p>Nos outils sont en amélioration continue. Leur développement se construit à partir de l’expérience des utilisateurs. Dites-nous ce que vous utilisez, signalez-nous un défaut ou suggérez une amélioration … Open Académie vous appartient !</p>
+      <p>Nos outils sont en amélioration continue. Leur développement se construit à partir de l’expérience des utilisateurs. Dites-nous ce que vous utilisez, signalez-nous un défaut ou suggérez une amélioration … OpenAcadémie vous appartient !</p>
     </div>
 
     <style jsx>{`
