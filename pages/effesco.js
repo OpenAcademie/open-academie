@@ -50,7 +50,6 @@ const effesco = () => (
       <Corporate
         simple="Comme tous les outils Open Académie, EffeSCO vise à simplifier concrètement vos opérations de gestion des établissements scolaires. EffeSCO permet de gérer sans effort l'ensemble des dispositifs d'aide sociale de l'EPLE, de manière confidentielle, sûre et rapide."
         gratuit="Elaboré par des agents du service public pour eux-mêmes et leurs collègues, EffeSCO est libre et gratuit. Cette liberté est protégée par la <Link href="https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_fr.pdf"><a>licence EUPL 1.2, Licence publique de l'Union européenne</a></Link>."
-."
       />
     </main>
   </Layout>
