@@ -5,7 +5,7 @@ import Menu from './menu'
 export default ({ children, title = '', background = 'dark' }) => (
   <div>
     <Head>
-      <title>{ title ? `${title} - Open Académie` : 'Open Académie'}</title>
+      <title>{ title ? `${title} - OpenAcadémie` : 'OpenAcadémie'}</title>
       <meta charSet='utf-8' />
       <meta name='viewport' content='initial-scale=1.0, width=device-width' />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
@@ -21,7 +21,7 @@ export default ({ children, title = '', background = 'dark' }) => (
     </div>
 
     <footer>
-      <p>Open Académie</p>
+      <p>OpenAcadémie</p>
       <a href="mailto:openacademie@espaceple.org">openacademie@espaceple.org</a>
 
       <style jsx>{`
