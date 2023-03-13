@@ -20,7 +20,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'http://gestionnaires.actifforum.com/f23-openacademie-et-ses-outils',
+        href: 'https://gestionnaires.actifforum.com/t44015-mobilisco-8-0-2',
       },
       {
         icon: '/static/icon-video.png',
@@ -91,7 +91,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'http://gestionnaires.actifforum.com/t35786-trombinosco-exploitez-a-fond-les-photos-des-eleves-et-des-personnels',
+        href: 'https://gestionnaires.actifforum.com/t35786-trombinosco',
       },
     ],
   },
@@ -125,7 +125,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t43048-cedisco-2-0-de-mai-2022-des-conseils-de-discipline-sans-transpirer',
+        href: 'https://gestionnaires.actifforum.com/t43048-cedisco',
       },
   ]},
    {
@@ -147,7 +147,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t41662-ribsco-detecte-en-une-seconde-toute-erreur-dans-les-bic-et-les-rib#639553',
+        href: 'https://gestionnaires.actifforum.com/t41662-ribsco',
       },
       {
         icon: '/static/icon-video.png',
@@ -177,7 +177,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'http://gestionnaires.actifforum.com/f23-openacademie-et-ses-outils',
+        href: 'https://gestionnaires.actifforum.com/t39078-effesco',
       },
       {
         icon: '/static/icon-video.png',
@@ -204,7 +204,7 @@ export const Products = [
   {
     id: 'emaintenance',
     page: '/emaintenance',
-    title: 'E-maintenance',
+    title: 'AJI-maintenance',
     tagline: 'Réparer n\'est plus un problème',
     description: 'L\'appli e-maintenance permet l\'entretien et la gestion de tout type de matériel au sein d\'un établissement, de l\'ampoule grillée au rétroprojecteur en panne.',
     imageSource: '/static/wrench.png',
