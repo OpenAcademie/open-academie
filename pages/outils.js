@@ -15,7 +15,7 @@ const Outils = () => (
         <div className="why">
           <div className="wrapper">
             <p>
-              Open Académie est un collectif d’agents publics qui produit des services numériques gratuits pour faciliter l’administration des établissements scolaires.
+              OpenAcadémie est un collectif d’agents publics qui produit des services numériques gratuits pour faciliter l’administration des établissements scolaires.
             </p>
             <p className="cta">
               Envie de vous simplifier la vie ? Testez nos outils !
