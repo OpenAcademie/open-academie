@@ -32,11 +32,11 @@ export const Products = [
   {
     id: 'gemasco',
     page: '/gemasco',
-    title: 'GemaSCO 4.0.4',
+    title: 'GemaSCO 4.0.5',
     formUrl: 'https://docs.google.com/forms/d/1AcTYcJrqYufC7N8SUeWzC1EpID0kprPHjTNq8Z5JOuk/formResponse?entry.1936573090=',
     emailEntryRef: '843103382',
     pageEntryRef: '89190430',
-    downloadUrl: '/static/files/GemaSCO_v4-0-4.zip',
+    downloadUrl: '/static/files/GemaSCO_v4-0-5.zip',
     tagline: 'L’appli qui gère les manuels scolaires',
     description: 'GemaSCO commande, distribue, récupère et fait même l’inventaire de vos manuels scolaires !',
     imageSource: '/static/book.png',
@@ -59,7 +59,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t43041-gemasco-4-0-mai-2022-vous-aviez-des-ennuis-avec-les-manuels-scolaires',
+        href: 'https://gestionnaires.actifforum.com/t43041-gemasco-4',
       },
     ],
   },
