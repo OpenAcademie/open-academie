@@ -25,7 +25,7 @@ export const Products = [
       {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
     ],
   },
@@ -54,7 +54,7 @@ export const Products = [
       {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
       {
         icon: '/static/icon-forum.png',
@@ -86,7 +86,7 @@ export const Products = [
             {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
       {
         icon: '/static/icon-forum.png',
@@ -120,7 +120,7 @@ export const Products = [
       {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
       {
         icon: '/static/icon-forum.png',
@@ -152,7 +152,7 @@ export const Products = [
       {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
     ],
   },
@@ -182,7 +182,7 @@ export const Products = [
       {
         icon: '/static/icon-video.png',
         label: 'Tutoriels',
-        href: 'https://tube.ac-lyon.fr/video-channels/openacademie_channel/videos',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
     ],
   },
