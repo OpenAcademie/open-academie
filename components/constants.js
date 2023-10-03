@@ -111,7 +111,7 @@ export const Products = [
     mapUrl: 'https://www.google.com/maps/d/embed?mid=1CHokoocxSwzJOq16GsTOv4Ypono',
     salesPoints: [
       'Edition des convocations pour l\'élève, sa famille, les membres du conseil et les témoins',
-      'Conducteur de procédure pour le proutident de séance',
+      'Conducteur de procédure pour le président de séance',
       'Secrétariat de séance semi-automatique en temps réel',
       'Procès-verbal et notification immédiats',
       'Registre des sanctions de l\'EPLE',
