@@ -186,21 +186,6 @@ export const Products = [
       },
     ],
   },
-    {
-    id: 'opencartecomptable',
-    page: '/opencartecomptable',
-    title: 'OpenCarteComptable',
-    tagline: 'Votre établissement fait-il partie du registre national des agences comptables ?',
-    description: 'Permettre à chaque agent de consulter les composantes de l\'agence comptable. Donner une photographie nationale de la carte des agences comptables et des éléments de comparaison.',
-    imageSource: '/static/globe.png',
-    color: '#ff6969',
-    background: '',
-    salesPoints: [
-      'Connaître le détail de l\'agence comptable où je compte muter',
-      'Comparer la taille des agences selon les académies',
-      'Mis à jour par la communauté, en mode wiki'
-    ]
-  },
   {
     id: 'emaintenance',
     page: '/emaintenance',
