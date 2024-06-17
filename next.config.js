@@ -10,7 +10,6 @@ module.exports = {
       "/effesco": { page: "/effesco" },
       "/trombinosco": { page: "/trombinosco" },
       "/ribsco": { page: "/ribsco" },
-      "/opencartecomptable": { page: "/opencartecomptable" },
       "/outils": { page: "/outils" },
       "/projet": { page: "/projet" },
       "/votre-projet": { page: "/votre-projet" }
