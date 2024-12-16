@@ -190,7 +190,7 @@ export const Products = [
   },
      {
     id: 'essatedesco',
-    page: '/effesco',
+    page: '/essatedesco',
     title: 'EssatédéSCO 2.0',
     formUrl: 'https://docs.google.com/forms/d/1NmOvwDBvewcF_F68_tsugW_jv_4_5aX98mVk-bajzdY/formResponse?entry.162101201=',
     downloadUrl: '/static/files/EssatedeSCO_2-0.zip',
