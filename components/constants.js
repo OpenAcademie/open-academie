@@ -188,6 +188,37 @@ export const Products = [
   },
   {
   },
+     {
+    id: 'essatedesco',
+    page: '/effesco',
+    title: 'EssatédéSCO 2.0',
+    formUrl: 'https://docs.google.com/forms/d/1NmOvwDBvewcF_F68_tsugW_jv_4_5aX98mVk-bajzdY/formResponse?entry.162101201=',
+    downloadUrl: '/static/files/EssatedeSCO_2-0.zip',
+    tagline: 'La saisie admnistrative à tiers détenteur comme si c\'était facile',
+    description: 'Tous les documents, toutes les procédures, sans effort et sans risque',
+    imageSource: '/static/EssatedeSCOminitrs.png',
+    color: '#0a938f',
+    background: '',
+    salesPoints: [
+      'Gère tous les établissements d\'une agence comptable',
+      'Importe des créances de Op@le, GFC, Cocwinelle (pour l\'instant) et permet d\'en ajouter manuellement',
+      'Fournit sans effort les documents SATD (employeur ou banque), FICOBA, huissier...',
+    ],
+    externalLinks: [
+      {
+        icon: '/static/icon-forum.png',
+        label: 'Forum',
+        href: 'https://gestionnaires.actifforum.com/t39615-essatedesco',
+      },
+      {
+        icon: '/static/icon-video.png',
+        label: 'Tutoriels',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
+      },
+    ],
+  },
+  {
+  },
   {
     id: 'emaintenance',
     page: '/emaintenance',
