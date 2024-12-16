@@ -194,7 +194,7 @@ export const Products = [
     title: 'EssatédéSCO 2.0',
     formUrl: 'https://docs.google.com/forms/d/1NmOvwDBvewcF_F68_tsugW_jv_4_5aX98mVk-bajzdY/formResponse?entry.162101201=',
     downloadUrl: '/static/files/EssatedeSCO_2-0.zip',
-    tagline: 'La saisie admnistrative à tiers détenteur comme si c\'était facile',
+    tagline: 'La saisie administrative à tiers détenteur comme si c\'était facile',
     description: 'Tous les documents, toutes les procédures, sans effort et sans risque',
     imageSource: '/static/EssatedeSCOminitrs.png',
     color: '#0a938f',
