@@ -186,9 +186,7 @@ export const Products = [
       },
     ],
   },
-  {
-  },
-     {
+   {
     id: 'essatedesco',
     page: '/essatedesco',
     title: 'EssatédéSCO 2.0',
@@ -216,8 +214,6 @@ export const Products = [
         href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
       },
     ],
-  },
-  {
   },
   {
     id: 'emaintenance',
