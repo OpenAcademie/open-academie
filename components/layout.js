@@ -27,7 +27,7 @@ export default ({ children, title = '', background = 'dark' }) => (
       <style jsx>{`
         footer {
           text-align: center;
-          padding: 2em 0 5em;
+          padding: 2em 0 4em;
           font-family: 'Quicksand', sans-serif;
           background-color: #152b29;
           color: white;
