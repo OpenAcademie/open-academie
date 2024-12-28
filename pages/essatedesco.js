@@ -13,7 +13,7 @@ import { Colors } from '../components/constants'
 
 const constant = Products.find(product => product.id === 'essatedesco')
 
-const essatedesco = () => (
+const Essatedesco = () => (
   <Layout title={constant.title}>
     <main>
       <ProductHead constant={constant} />
@@ -55,4 +55,4 @@ const essatedesco = () => (
   </Layout>
 )
 
-export default essatedesco
+export default Essatedesco
