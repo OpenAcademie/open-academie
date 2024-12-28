@@ -1,8 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
 import { Products } from '../components/constants'
-import SectionTitle from '../components/section-title'
-import HomeItem from '../components/home-item'
 
 const Outils = () => (
   <Layout title='Les outils'>
