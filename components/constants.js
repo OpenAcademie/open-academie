@@ -127,35 +127,8 @@ export const Products = [
         label: 'Forum',
         href: 'https://gestionnaires.actifforum.com/t43048-cedisco',
       },
-  ]},
-   {
-    id: 'ribsco',
-    page: '/ribsco',
-    title: 'RibSCO 1.6',
-    downloadUrl: '/static/files/RibSCO_1-6.zip',
-    tagline: 'Vérifiez vos fichiers de paiement en un clin d\'oeil',
-    description: 'Soumettez vos fichiers XML de règlement ou de prélèvement à RibSCO et vous saurez immédiatement s\'ils contiennent une erreur',
-    imageSource: '/static/RibSCO_CCBY_ParkJisun.png',
-    color: '#24b47e',
-    background: '',
-    salesPoints: [
-      'Téléchargez et ouvrez l\'application',
-      'Soumettez un fichier XML',
-      'Rapport immédiat sur toute anomalie détectée dans les coordonnées bancaires',
-    ],
-    externalLinks: [
-      {
-        icon: '/static/icon-forum.png',
-        label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t41662-ribsco',
-      },
-      {
-        icon: '/static/icon-video.png',
-        label: 'Tutoriels',
-        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
-      },
-    ],
-  },
+     ],
+    },
    {
     id: 'effesco',
     page: '/effesco',
@@ -207,6 +180,34 @@ export const Products = [
         icon: '/static/icon-forum.png',
         label: 'Forum',
         href: 'https://gestionnaires.actifforum.com/t39615-essatedesco',
+      },
+      {
+        icon: '/static/icon-video.png',
+        label: 'Tutoriels',
+        href: 'https://tube-numerique-educatif.apps.education.fr/c/andre_etienne_channel/videos',
+      },
+    ],
+  },
+   {
+    id: 'ribsco',
+    page: '/ribsco',
+    title: 'RibSCO 1.6',
+    downloadUrl: '/static/files/RibSCO_1-6.zip',
+    tagline: 'Vérifiez vos fichiers de paiement en un clin d\'oeil',
+    description: 'Soumettez vos fichiers XML de règlement ou de prélèvement à RibSCO et vous saurez immédiatement s\'ils contiennent une erreur',
+    imageSource: '/static/RibSCO_CCBY_ParkJisun.png',
+    color: '#24b47e',
+    background: '',
+    salesPoints: [
+      'Téléchargez et ouvrez l\'application',
+      'Soumettez un fichier XML',
+      'Rapport immédiat sur toute anomalie détectée dans les coordonnées bancaires',
+    ],
+    externalLinks: [
+      {
+        icon: '/static/icon-forum.png',
+        label: 'Forum',
+        href: 'https://gestionnaires.actifforum.com/t41662-ribsco',
       },
       {
         icon: '/static/icon-video.png',
