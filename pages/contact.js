@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import Layout from '../components/layout'
 
-export default () => (
+const Contacts = () => (
   <Layout title='Contactez-nous' background={'light'}>
     <main>
       <h1>Idée, problème, ou simple envie de discuter, nous sommes à votre écoute.</h1>
@@ -45,3 +45,4 @@ export default () => (
     </main>
   </Layout>
 )
+export default Contacts
