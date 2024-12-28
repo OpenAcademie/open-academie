@@ -161,9 +161,9 @@ export const Products = [
   },
    {
     id: 'essatedesco',
-    page: '/essatedesco',
+    page: '/essatede',
     title: 'EssatédéSCO 2.0',
-    formUrl: 'https://docs.google.com/forms/d/1NmOvwDBvewcF_F68_tsugW_jv_4_5aX98mVk-bajzdY/formResponse?entry.162101201=',
+    formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLSfhktm15pCKM8UK3_W-CUYFKU2a8R4lsmW6IBAFTVCI5LAYng/formResponse?entry.1297664213=',
     downloadUrl: '/static/files/EssatedeSCO_2-0.zip',
     tagline: 'La saisie administrative à tiers détenteur à la portée des comptables d\'EPLE',
     description: 'Tous les documents, toutes les procédures, sans effort et sans risque',
