@@ -9,6 +9,7 @@ module.exports = {
       "/mobilisco": { page: "/mobilisco" },
       "/effesco": { page: "/effesco" },
       "/trombinosco": { page: "/trombinosco" },
+      "/essatedesco": { page: "/essatedesco" },
       "/ribsco": { page: "/ribsco" },
       "/outils": { page: "/outils" },
       "/projet": { page: "/projet" },
