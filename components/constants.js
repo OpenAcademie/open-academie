@@ -132,9 +132,9 @@ export const Products = [
    {
     id: 'effesco',
     page: '/effesco',
-    title: 'EffeSCO 1.2.0',
+    title: 'EffeSCO 2.0.0',
     formUrl: 'https://docs.google.com/forms/d/1NmOvwDBvewcF_F68_tsugW_jv_4_5aX98mVk-bajzdY/formResponse?entry.162101201=',
-    downloadUrl: '/static/files/EffeSCO_1-2-0.zip',
+    downloadUrl: '/static/files/EffeSCO_2-0-0.zip',
     tagline: 'Les aides sociales enfin faciles et rapides',
     description: 'Un logiciel de gestion du fonds social, depuis les demandes pré-remplies jusqu\’à la pièce justificative comptable',
     imageSource: '/static/blue_handshake.png',
@@ -150,7 +150,7 @@ export const Products = [
       {
         icon: '/static/icon-forum.png',
         label: 'Forum',
-        href: 'https://gestionnaires.actifforum.com/t39078-effesco',
+        href: 'https://gestionnaires.actifforum.com/t48185-effesco',
       },
       {
         icon: '/static/icon-video.png',
