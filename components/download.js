@@ -61,7 +61,7 @@ class Download extends React.Component {
 
         <div className="small">
           {this.constant.title} fonctionne sur : Microsoft Access versions 2010 à 2021.
-          Si vous ne disposez pas de Microsoft Access vous pouvez <Link href="https://www.microsoft.com/fr-fr/download/details.aspx?id=50040"><a>télécharger gratuitement le Runtime Access 2016.</a></Link>
+          Si vous ne disposez pas de Microsoft Access vous pouvez <Link href="https://www.microsoft.com/en-us/download/details.aspx?id=50040"><a>télécharger gratuitement le Runtime Access 2016.</a></Link>
         </div>
 
         <style jsx>{`
