@@ -130,6 +130,31 @@ const Projet = () => (
           </li>
         </ul>
 
+    <div>
+        <p>
+          <strong>Mentions légales</strong>
+
+          <br />
+          <br />
+
+          Ce site web est édité par l'association OpenAcadémie, boîte n°3, 8 bis avenue Anatole France 94600 Choisy-le-Roi ; directeur de la publication : Étienne ANDRÉ
+
+          <br />
+          <br />
+
+          Ce site web est hébergé par https://github.com
+        </p>
+        <style jsx>{`
+          p {
+            max-width: 565px;
+            line-height: 1.6em;
+            font-size: 1.5em;
+            margin: 3em auto;
+          }
+        `}</style>
+      </div>
+
+
         <style jsx>{`
           h2 {
             text-align: center;
