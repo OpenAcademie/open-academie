@@ -60,7 +60,7 @@ class Download extends React.Component {
         <input type="submit" value="Télécharger" />
 
         <div className="small">
-          {this.constant.title} fonctionne sur : Microsoft Access versions 2010 à 2021.
+          {this.constant.title} fonctionne sur : Microsoft Access versions 2010 à 2024.
           Si vous ne disposez pas de Microsoft Access vous pouvez <Link href="https://www.microsoft.com/en-us/download/details.aspx?id=50040"><a>télécharger gratuitement le Runtime Access 2016.</a></Link>
         </div>
 
